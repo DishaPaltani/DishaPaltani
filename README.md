@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Disha Paltani</h1>
 <h3 align="center">A passionate Full Stack developer.</h3>
+<p align="center">I thrive on creating dynamic and efficient web applications, leveraging both front-end and back-end technologies. My enthusiasm for problem-solving drives me to continuously learn and adapt to new challenges in the tech world.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dishapaltani&label=Profile%20views&color=0e75b6&style=flat" alt="dishapaltani" /> </p>
 
@@ -8,10 +9,9 @@
 </p>
 
 <ul>
-  <li>🌱 I’m currently learning <strong>Node.js</strong></li>
   <li>💬 Ask me about <strong>React, JavaScript, Node.js</strong></li>
   <li>📫 How to reach me <strong>paltanikshitij@gmail.com</strong></li>
-  <li>📄 Know about my experiences <a href="https://showcase.talenlio.com/r/Disha-Paltani-p2bo52-DU54voS7">https://showcase.talenlio.com/r/Disha-Paltani-p2bo52-DU54voS7</a></li>
+  <li>📄 Know about my experiences <a href="https://drive.google.com/file/d/1kbIQHNWLvgDpa6lyt5mr7HD99KGmiWAI/view">https://drive.google.com/file/d/1kbIQHNWLvgDpa6lyt5mr7HD99KGmiWAI/view</a></li>
   <li>⚡ Fun fact <strong>I am Intellectual</strong></li>
 </ul>
 
